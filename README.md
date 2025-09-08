@@ -15,11 +15,11 @@
     - [Chapter 1 - Part 12: Applying Business Rules with CTEs and Joins.](#chapter1part12)
     - [Chapter 1 - Part 13: Fill the Gaps of a Table (gaps and islands)](#chapter1part13)
 2. [Chapter 2: Challenges](#chapter2)
-    - [Chapter 1 - Part 1: Conditional Aggregation with Window Functions and CTEs. (Pricing Rule Engine Logic)](#chapter1part1)
-    - [Chapter 2 - Part 2: Find the second highest distinct salary](#chapter1part2)
-    - [Chapter 3 - Part 3: Return the employees who have a salary higher than a manager's.](#chapter1part3)
-    - [Chapter 3 - Part 4: Find the ids of products that are both low fat and recyclable](#chapter1part4)
-    - [Chapter 3 - Part 5: Find managers with at least five direct reports](#chapter1part5)
+    - [Chapter 1 - Part 1: Conditional Aggregation with Window Functions and CTEs. (Pricing Rule Engine Logic)](#chapter2part1)
+    - [Chapter 2 - Part 2: Find the second highest distinct salary](#chapter2part2)
+    - [Chapter 3 - Part 3: Return the employees who have a salary higher than a manager's.](#chapter2part3)
+    - [Chapter 3 - Part 4: Find the ids of products that are both low fat and recyclable](#chapter2part4)
+    - [Chapter 3 - Part 5: Find managers with at least five direct reports](#chapter2part5)
   
 ## <a name="chapter1"></a>Chapter 1: Basic Querys
 
